@@ -3,8 +3,6 @@
 
 ## Container Archive Encryption Program
 ## Written and Devoloped by Chris J. Nguyen
-# rgetroiherihsiyurg
-
 
 import os, sys, zipfile, StringIO, string, random, shutil, time
 
@@ -12,13 +10,6 @@ __version__ = "4.1.5"
 __author__ = "Chris J. Nguyen"
 __date__ = "April 6th, 2016"
 __copyright__ = "(C) 2016-2018 Chris J. Nguyen. GNU GPL 3."
-## freeNote.net
-## irc
-## filename encryption python
-
-tmp_s = 'There he was...'
-tmp_k = 'password'
-#TmpZip = zipfile.ZipFile('Test.zip', 'w')
 
 _Bricks = "~-"*16
 _Fancy = "\n\n%s\n\n" % _Bricks
