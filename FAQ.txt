@@ -1,0 +1,19 @@
+Q: How do I add my own document to my Archive?
+A: Cut/Move a file from your computer and paste it into the temporary directory 
+that is opened when you "Start" your archive in the Main Menu!
+
+Q: How do I Quit the program?
+A: Simpily input the corresponding option relating to "Exit" or "Logout" 
+or just type "EXIT" when promted to input text!
+
+Q: How do I thank or ask the Devolopers?
+A: Email him at: ChrisNguyen180@gmail.com!
+
+Q: How long did it take to make this program?
+A: Apx 1 Month.
+
+Q: How many lines of code if the program?
+A: About 500 lines.
+
+Q: What are other acceptable inputs?
+A: "LS" or "DIR", "PWD", "FAQ" or "HELP", "START" or "OPEN" 
